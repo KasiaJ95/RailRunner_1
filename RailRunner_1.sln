@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RailRunner_1", "Assembly-CSharp.csproj", "{A5FEBC85-E96A-30AA-6416-287854ED1C6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RailRunner_1", "Assembly-CSharp-Editor.csproj", "{BCC93574-FF15-8198-F6A1-7D4E1ABA7FD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5FEBC85-E96A-30AA-6416-287854ED1C6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5FEBC85-E96A-30AA-6416-287854ED1C6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5FEBC85-E96A-30AA-6416-287854ED1C6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5FEBC85-E96A-30AA-6416-287854ED1C6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCC93574-FF15-8198-F6A1-7D4E1ABA7FD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCC93574-FF15-8198-F6A1-7D4E1ABA7FD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCC93574-FF15-8198-F6A1-7D4E1ABA7FD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCC93574-FF15-8198-F6A1-7D4E1ABA7FD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
